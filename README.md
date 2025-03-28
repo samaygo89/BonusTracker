@@ -1,17 +1,17 @@
 Status: Optimal \
 Objective Function Value: 157.0 \
 
+|Account Name|Create Date|Last Payment Date|Created|
+|--------------------|-------------|----------------------------------|------------|
+|Truist            |2025-03-28|2025-07-15| 2025-03-28 |
+|Citizens Bank     |2025-03-29|2025-05-15| 2025-03-27 |
+|Capital One       |2025-03-29|2025-05-30| 2025-03-27 |
+|Fifth Third       |2025-03-29|2025-06-16| 2025-03-27 |
+|Chime (SwagBucks) |2025-03-29|2025-04-15| 2025-03-27 |
+|Wells Fargo       |2025-04-11|2025-06-30| No|
+|Bank of America   |2025-05-27|2025-08-15| No|
+|Keybank           |2025-06-13|2025-09-01| No|
 
-Account Name        Created Date   Last Payment Date   
--------------------------------------------------------
-Truist              2025-03-28     2025-07-15  - Created (3/28/2025)       
-Citizens Bank       2025-03-29     2025-05-15  - Created (3/27/2025)
-Capital One         2025-03-29     2025-05-30  - Created (3/27/2025)
-Fifth Third         2025-03-29     2025-06-16  - Created (3/27/2025)       
-Chime(SwagBucks)    2025-03-29     2025-04-15  - Created (3/27/2025)       
-Wells Fargo         2025-04-11     2025-06-30          
-Bank of America     2025-05-27     2025-08-15          
-Keybank             2025-06-13     2025-09-01          
 
 
 Payday: 2025-03-31, Total Amount Paid: 675.0
