@@ -14,37 +14,29 @@ Objective Function Value: 157.0 \
 
 
 
-Payday: 2025-03-31, Total Amount Paid: 675.0
-    Truist: 100.0
-    Fifth Third: 375.0
-    Chime(SwagBucks): 200.0
-Payday: 2025-04-15, Total Amount Paid: 675.0
-    Truist: 175.0
-    Chime(SwagBucks): 200.0
-    Wells Fargo: 300.0
-Payday: 2025-04-30, Total Amount Paid: 675.0
-    Citizens Bank: 500.0
-    Wells Fargo: 175.0
-Payday: 2025-05-15, Total Amount Paid: 675.0
-    Capital One: 500.0
-    Wells Fargo: 175.0
-Payday: 2025-05-30, Total Amount Paid: 675.0
-    Capital One: 500.0
-    Wells Fargo: 175.0
-Payday: 2025-06-16, Total Amount Paid: 650.0
-    Truist: 525.0
-    Fifth Third: 125.0
-Payday: 2025-06-30, Total Amount Paid: 675.0
-    Truist: 100.0
-    Wells Fargo: 175.0
-    Bank of America: 400.0
-Payday: 2025-07-15, Total Amount Paid: 675.0
-    Truist: 100.0
-    Bank of America: 575.0
-Payday: 2025-07-31, Total Amount Paid: 675.0
-    Bank of America: 350.0
-    Keybank: 325.0
-Payday: 2025-08-15, Total Amount Paid: 675.0
-    Bank of America: 675.0
-Payday: 2025-09-01, Total Amount Paid: 675.0
-    Keybank: 675.0
+| Payday     | Total Amount Paid | Account          | Amount Paid |
+|-----------|------------------|-----------------|-------------|
+| 2025-03-31 | 675.0            | Truist          | 100.0       |
+|           |                  | Fifth Third     | 375.0       |
+|           |                  | Chime (SwagBucks) | 200.0       |
+| 2025-04-15 | 675.0            | Truist          | 175.0       |
+|           |                  | Chime (SwagBucks) | 200.0       |
+|           |                  | Wells Fargo     | 300.0       |
+| 2025-04-30 | 675.0            | Citizens Bank   | 500.0       |
+|           |                  | Wells Fargo     | 175.0       |
+| 2025-05-15 | 675.0            | Capital One     | 500.0       |
+|           |                  | Wells Fargo     | 175.0       |
+| 2025-05-30 | 675.0            | Capital One     | 500.0       |
+|           |                  | Wells Fargo     | 175.0       |
+| 2025-06-16 | 650.0            | Truist          | 525.0       |
+|           |                  | Fifth Third     | 125.0       |
+| 2025-06-30 | 675.0            | Truist          | 100.0       |
+|           |                  | Wells Fargo     | 175.0       |
+|           |                  | Bank of America | 400.0       |
+| 2025-07-15 | 675.0            | Truist          | 100.0       |
+|           |                  | Bank of America | 575.0       |
+| 2025-07-31 | 675.0            | Bank of America | 350.0       |
+|           |                  | Keybank         | 325.0       |
+| 2025-08-15 | 675.0            | Bank of America | 675.0       |
+| 2025-09-01 | 675.0            | Keybank         | 675.0       |
+
