@@ -1,5 +1,5 @@
 Status: Optimal \
-Objective Function Value: 157.0 \
+Objective Function Value: 157.0 
 
 |Account Name|Create Date|Last Payment Date|Created|
 |--------------------|-------------|----------------------------------|------------|
