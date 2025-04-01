@@ -16,14 +16,13 @@ Objective Function Value: 157.0
 
 | Payday     | Total Amount Paid | Account          | Amount Paid | Done  |
 |-----------|------------------|-----------------|-------------|-------|
-| 2025-03-31 | 675.0            | Truist          | 100.0       | No    |
-|           |                  | Fifth Third     | 375.0       | No    |
-|           |                  | Chime (SwagBucks) | 200.0       | No    |
-| 2025-04-15 | 675.0            | Truist          | 175.0       | No    |
+| 2025-04-15 | 1150           | Truist          | 275.0       | No    |
 |           |                  | Chime (SwagBucks) | 200.0       | No    |
 |           |                  | Wells Fargo     | 300.0       | No    |
-| 2025-04-30 | 675.0            | Citizens Bank   | 500.0       | No    |
+|           |                  | Fifth Third     | 375.0       | No    |
+| 2025-04-30 | 875.0            | Citizens Bank   | 500.0       | No    |
 |           |                  | Wells Fargo     | 175.0       | No    |
+|           |                  | Chime (SwagBucks) | 200.0       | No    |
 | 2025-05-15 | 675.0            | Capital One     | 500.0       | No    |
 |           |                  | Wells Fargo     | 175.0       | No    |
 | 2025-05-30 | 675.0            | Capital One     | 500.0       | No    |
