@@ -44,8 +44,10 @@ def get_paydays(year):
     today_date = datetime.now().date()
     pay_dates_days = [(payday - today_date).days for payday in pay_dates]
     return pay_dates_days
-    
 
+# Some accounts require a total amount to be paid off by the date (e.g. $1000 by 2025-12-31) - total_amount
+# Some accounts require a certain number of payments of a certain amount to be made by the date (e.g. 2 payments of $500 by 2025-12-31) - num_payments and value_per_payment
+# Some accounts require atleast a certain number of payments be made, summing to a certain amount, by the date (e.g. atleast 2 payments summing to $1000 by 2025-12-31) - min_payments and total_sum
 # Account Class to store account-specific information
 class Account:
     def __init__(self, name, start_date, days_till_deadline, total_amount = None, num_payments = None, value_per_payment = None, min_payments = None, total_sum = None):
