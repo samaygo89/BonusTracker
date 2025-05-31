@@ -25,8 +25,8 @@ Objective Function Value: 157.0
 |           |                  | Chime (SwagBucks) | 200.0       | Yes    |
 | 2025-05-15 | 675.0            | Capital One     | 500.0       | Yes    |
 |           |                  | Wells Fargo     | 175.0       | Yes    |
-| 2025-05-30 | 675.0            | Capital One     | 500.0       | No    |
-|           |                  | Wells Fargo     | 175.0       | No    |
+| 2025-05-30 | 675.0            | Capital One     | 500.0       | Yes    |
+|           |                  | Wells Fargo     | 175.0       | Yes    |
 | 2025-06-16 | 675.0            | Truist          | 525.0       | No    |
 |           |                  | Fifth Third     | 150.0       | No    |
 | 2025-06-30 | 675.0            | Truist          | 100.0       | No    |
